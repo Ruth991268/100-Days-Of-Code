@@ -1,0 +1,1 @@
+paddle.goto(350,0)
